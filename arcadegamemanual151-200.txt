@@ -151,4 +151,11 @@ Operators Manual with Illustrated Parts List. Includes set-up information, self-
 By Atari Games Corporation, 675 Sycamore Drive P.O. Box 361110, Milpitas, California 95035
 1987
 
+Arcade Game Manual: Game Tree by PSE
+Instruction manual for Game Tree by PSE
+Operator's Manual. Contains details of game operation, description of parts and logic, rifle assembly instructions, and schematics
+By Project Support Engineering, 750 North Mary Avenue, Sunnyvale, CA. 94086
+
+
+
 
