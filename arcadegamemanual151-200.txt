@@ -199,4 +199,9 @@ Includes troubleshooting flowchart, test procedures, and illustrations.
 By Midway Mfg. Co., 10750 West Grand Avenue, Franklink Park, Illinois 60131
 1976
 
+Arcade Game Manual: Crazy Balloon by Taito
+Instruction manual for Crazy Balloon by Taito
+Service instructions and parts catalog. Includes cocktail cabinet illustration, handling notes, hardware descriptions, assembly instructions and schematics.
+By Taito
+
 
