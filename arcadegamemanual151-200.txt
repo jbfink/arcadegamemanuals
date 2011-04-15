@@ -259,4 +259,8 @@ Instruction manual for The Adventures of Major Havoc by Atari
 Operators manual with illustrated parts lists. Includes setup, self test, maintenance and illustrated parts lists.
 By Atari
 
+Arcade Game Manual: Ring King by Data East USA
+Instruction manual for Ring King by Data East USA
+Service and operation manual. Includes setup instructions, adjustments and options, parts breakdown, harness diagrams and schematics.
+By Data East USA Inc., 470 Needles Street, San Jose, CA. 95122
 
