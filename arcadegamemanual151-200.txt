@@ -222,4 +222,8 @@ Operation, Maintenance and Service Manual. Includes general maintenance and serv
 By Atari Inc., 14600 Winchester Blvd, Los Gatos, CA 95030
 1976
 
+Arcade Game Manual: Naughty Boy by Cinematronics
+Instruction manual for Naughty Boy by Cinematronics
+Operation and maintenance manual. Includes warranty information, customer service procedures, receiving and installing, game description, option switch settings, routine maintenance, color monitor information, parts lists and pin-out lists.
+By Cinematronics Inc., 1841 Friendship Drive, El Cajon, CA 92020
 
