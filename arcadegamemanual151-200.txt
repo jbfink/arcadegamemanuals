@@ -147,15 +147,18 @@ By ???
 
 Arcade Game Manual: Pac-Mania by Atari
 Instruction manual for Pac-Mania by Atari
-Operators Manual with Illustrated Parts List. Includes set-up information, self-tests and maintenance.
+Operators manual with illustrated parts List. Includes set-up information, self-tests and maintenance.
 By Atari Games Corporation, 675 Sycamore Drive P.O. Box 361110, Milpitas, California 95035
 1987
 
 Arcade Game Manual: Game Tree by PSE
 Instruction manual for Game Tree by PSE
-Operator's Manual. Contains details of game operation, description of parts and logic, rifle assembly instructions, and schematics
+Operator's manual. Contains details of game operation, description of parts and logic, rifle assembly instructions, and schematics
 By Project Support Engineering, 750 North Mary Avenue, Sunnyvale, CA. 94086
 
-
+Arcade Game Manual: Rygar by Tecmo
+Instruction manual for Rygar by Tecmo
+Service instruction manual. Contains tool list, kit contents, description of game play, cabinet preparation instructions and dip switch settings.
+By Tecmo, 18010 S. Adria Maru Lane, Carson, California 90746
 
 
