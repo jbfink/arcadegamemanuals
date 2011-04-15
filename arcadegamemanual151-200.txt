@@ -209,3 +209,9 @@ Instruction manual for Rabbit Punch by Bally Midway
 Universal field kit instruction manual. Includes system information, illustrated parts breakdown, electrical information and list of illustrations.
 By Bally Midway, 10601 W. Belmont Avenue, Franklin Park, Illinois 60131
 1987
+
+Arcade Game Manual: Shuuz by Atari
+Instruction manual for Shuuz by Atari
+Kit installation instructions. Includes set-up instructions, self-test, maintenance and troubleshooting, parts illustrations, and schematic diagrams.
+By Atari Games Corporation, 675 Sycamore Drive, P.O. Box 361110, Milpitas, California 95036
+1990
