@@ -153,12 +153,16 @@ By Atari Games Corporation, 675 Sycamore Drive P.O. Box 361110, Milpitas, Califo
 
 Arcade Game Manual: Game Tree by PSE
 Instruction manual for Game Tree by PSE
-Operator's manual. Contains details of game operation, description of parts and logic, rifle assembly instructions, and schematics
+Operator's manual. Includes details of game operation, description of parts and logic, rifle assembly instructions, and schematics
 By Project Support Engineering, 750 North Mary Avenue, Sunnyvale, CA. 94086
 
 Arcade Game Manual: Rygar by Tecmo
 Instruction manual for Rygar by Tecmo
-Service instruction manual. Contains tool list, kit contents, description of game play, cabinet preparation instructions and dip switch settings.
+Service instruction manual. Includes tool list, kit contents, description of game play, cabinet preparation instructions and dip switch settings.
 By Tecmo, 18010 S. Adria Maru Lane, Carson, California 90746
 
+Arcade Game Manual: Death Race by Exidy
+Instruction manual for Death Race by Exidy
+Service manual. Includes game description, system functional description, troubleshooting tips, adjustments and figures.
+By Exidy, Inc., 2599 Garcia Ave., Mountain View, Calif. 94043
 
