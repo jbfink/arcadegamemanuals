@@ -135,4 +135,8 @@ Instruction manual for Strider by Capcom
 Kit instruction manual. Includes requirements, package contents, recommended tools and supplies, dip switch tables, game description, installation procedures, helpful hints, control panel positioning, main harness connections, and warranty registration card.
 By Capcom, 3303 Scott Boulevard, Santa Clara, CA 95054
 
-
+Arcade Game Manual: Aztarac by Centuri
+Instruction manual for Aztarac by Centuri
+Service manual. Includes general information, operation, parts list and schematics.
+By Centuri
+ 
