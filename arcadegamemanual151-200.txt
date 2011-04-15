@@ -171,3 +171,9 @@ Instruction manual for Gran Trak 10 by Atari
 Operating and maintenance manual. Includes maintenance information, part descriptions, illustration list and tables.
 By Atari Inc., 14600 Winchester Boulevard, Los Gatos, California 95030.
 
+Arcade Game Manual: Mikie by Konami
+Instruction manual for Mikie by Konami
+Includes dip switch settings and schematics
+By Konami
+
+
