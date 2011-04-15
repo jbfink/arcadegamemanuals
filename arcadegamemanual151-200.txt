@@ -193,4 +193,10 @@ Conversion kit manual. Includes control panel layouts, graphics, monitor specifi
 By Konami Inc., 1555 Brummel Avenue, Elk Grove Village, IL 60007
 1986
 
+Arcade Game Manual: Standardized Test Procedure for Midway's Processor Boards by Midway
+Instruction manual for Standardized Test Procedure for Midway's Processor Boards by Midway
+Includes troubleshooting flowchart, test procedures, and illustrations.
+By Midway Mfg. Co., 10750 West Grand Avenue, Franklink Park, Illinois 60131
+1976
+
 
