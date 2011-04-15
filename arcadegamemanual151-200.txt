@@ -166,3 +166,8 @@ Instruction manual for Death Race by Exidy
 Service manual. Includes game description, system functional description, troubleshooting tips, adjustments and figures.
 By Exidy, Inc., 2599 Garcia Ave., Mountain View, Calif. 94043
 
+Arcade Game Manual: Gran Trak 10 by Atari
+Instruction manual for Gran Trak 10 by Atari
+Operating and maintenance manual. Includes maintenance information, part descriptions, illustration list and tables.
+By Atari Inc., 14600 Winchester Boulevard, Los Gatos, California 95030.
+
