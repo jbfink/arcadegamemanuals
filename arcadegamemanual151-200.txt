@@ -227,3 +227,8 @@ Instruction manual for Naughty Boy by Cinematronics
 Operation and maintenance manual. Includes warranty information, customer service procedures, receiving and installing, game description, option switch settings, routine maintenance, color monitor information, parts lists and pin-out lists.
 By Cinematronics Inc., 1841 Friendship Drive, El Cajon, CA 92020
 
+Arcade Game Manual: Roc 'N Rope by Kosuka
+Instruction manual for Roc 'N Rope by Kosuka
+Conversion kit instruction manual. Includes dip switch settings, board diagrams and schematics.
+By Kosuka Co., Ltd. Distributed by Interlogic, Inc. 9806 W. Farragut Ave., Rosemont, IL 60018
+
