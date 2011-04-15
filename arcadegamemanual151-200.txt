@@ -185,5 +185,12 @@ By Nintendo
 Arcade Game Manual: Night Driver by Atari
 Instruction manual for Night Driver by Atari
 Operation, Maintenance and Service Manual. Includes physical description, gameplay summary, specifications, theory of operation, schematics and installation instructions.
-By Atari, Inc., 1265 Borregas Avenue, Sunnyvale, CA 94086
+By Atari Inc., 1265 Borregas Avenue, Sunnyvale, CA 94086
+
+Arcade Game Manual: Iron Horse by Konami
+Instruction manual for Iron Horse by Konami
+Conversion kit manual. Includes control panel layouts, graphics, monitor specifications, wiring harness color code, diagrams and dip switch settings.
+By Konami Inc., 1555 Brummel Avenue, Elk Grove Village, IL 60007
+1986
+
 
