@@ -141,8 +141,14 @@ Service manual. Includes general information, operation, parts list and schemati
 By Centuri
  
 Arcade Game Manual: Stompin' by ???
-Instructiona manual for Stompin' by ???
+Instruction manual for Stompin' by ???
 Includes self test, option switch settings, mounting procedures, and schematics
 By ???
+
+Arcade Game Manual: Pac-Mania by Atari
+Instruction manual for Pac-Mania by Atari
+Operators Manual with Illustrated Parts List. Includes set-up information, self-tests and maintenance.
+By Atari Games Corporation, 675 Sycamore Drive P.O. Box 361110, Milpitas, California 95035
+1987
 
 
