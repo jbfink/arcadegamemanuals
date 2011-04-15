@@ -87,4 +87,12 @@ Instruction manual for upright and cockpit games. Includes operation, bookkeepin
 By Williams Electronics, Inc., 3401 N. California Ave., Chicago, IL. 60618
 1983
 
+Arcade Game Manual: King & Balloon by Game Plan
+Instruction manual for King & Balloon by Game Plan
+Includes installation, game play instructions, test and hardware descriptions, schematics and troubleshooting.
+By Game Plan, Inc., 1515 W. Fullerton Avenue, Addison, Illinois 60101
+
+
+
+
 
