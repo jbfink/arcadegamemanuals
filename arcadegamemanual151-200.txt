@@ -181,3 +181,9 @@ Instruction manual for Donkey Kong by Nintendo
 Operation manual. Includes specifications, installation instructions, maintenance and inspection, adjustments, and part list.
 By Nintendo
 1981
+
+Arcade Game Manual: Night Driver by Atari
+Instruction manual for Night Driver by Atari
+Operation, Maintenance and Service Manual. Includes physical description, gameplay summary, specifications, theory of operation, schematics and installation instructions.
+By Atari, Inc., 1265 Borregas Avenue, Sunnyvale, CA 94086
+
