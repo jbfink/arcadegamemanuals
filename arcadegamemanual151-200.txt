@@ -1,0 +1,56 @@
+Arcade Game Manual: Rebound by Atari
+Instruction manual for Rebound by Atari
+General maintenance information, circuit description. Includes list of figures and tables.
+By Atari, Inc, 14600 Winchester Boulevard, Los Gatos, California 95030.
+1974
+
+Arcade Game Manual: Tennis Tourney by Allied Leisure Industries
+Instruction manual for Tennis Tourney by Allied Leisure Industries
+Cabinet details, circuit descriptions and schematics.
+By Allied Leisure Industries, Inc, 245 West 74th Place, Hialeah, Florida 33010
+
+Arcade Game Manual: Sheriff by Nintendo
+Instruction manual for Sheriff by Nintendo
+Points and methods of adjustment, sound PC board, and schematics.
+By Nintendo
+
+Arcade Game Manual: Winner by Midway
+Instruction manual for Winner by Midway
+General instructions, troubleshooting information and schematics.
+By Midway Mfg. Co., 3750 River Road, Schiller Park, Illinois 60176.
+1973
+
+Arcade Game Manual: Space Invaders Deluxe by Midway
+Instruction manual for Space Invaders Deluxe by Midway
+Parts and operating manual for upright and cocktail cabinets. Includes general instructions, switch adjustments, schematics and component layouts.
+By Midway Mfg. Co., 10750 West Grand Avenue, Franklin Park, Illinois 60131
+
+Arcade Game Manual: Space Firebird by Gremlin/Sega
+Instruction manual for Space Firebird by Gremlin/Sega
+Installation procedures, maintenance and troubleshooting, parts catalog, and list of recommended spare parts.
+By Gremlin/Sega, 8401 Aero Drive, San Diego, California 92123
+1980
+
+Arcade Game Manual: Mega Zone by Inter Logic
+Instruction manual for Mega Zone by Inter Logic
+Conversion kit instructions, dip switch settings, schematics and diagrams
+By Inter Logic, 9806 W. Farragut Ave., Rosemont, IL 60018
+
+Arcade Game Manual: Kaos by Game Plan
+Instruction manual for Kaos by Game Plan
+Instruction and service manual. Includes unpacking instructions, installation, information about game modes, hardware descriptions, and schematics.
+By Game Plan, Inc., 1515 W. Fullerton Avenue, Addison, Illinois 60101
+1981
+
+Arcade Game Manual: Stargate by Williams Electronics
+Instruction manual for Stargate by Williams Electronics
+Includes ROM summary, installation, game operation and adjustment, and hardware tests.
+By Williams Electronics, 3401 N. California Av., Chicago, IL 60618
+1981
+
+Arcade Game Manual: Space Invaders II by Midway
+Instruction manual for Space Invaders II by Midway
+Parts and operating manual for cocktail cabinet. Contains list of RAMS, PROMS and ROMS, parts list, schematics and layouts.
+By Midway Mfg. Co., 10750 West Grand Avenue, Franklin Park, Illinois 60131
+1980 
+
