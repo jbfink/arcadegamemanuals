@@ -62,7 +62,13 @@ By GDI, Inc.
 
 Arcade Game Manual: Karate Champ by Data East USA
 Instruction manual for Karate Champ by Data East USA
-Installation instructions. Includes component locations, circuit descriptions and schematics
+Installation instructions. Includes component locations, circuit descriptions and schematics.
 By Data East USA, Inc., 470 Gianni Street, Santa Clara, CA. 95050
+
+Arcade Game Manual: Polaris by Taito
+Instruction manual for Polaris by Taito
+Service instructions and parts catalog. Includes schematics and play instructions.
+By Taito Corporation
+1980
 
 
