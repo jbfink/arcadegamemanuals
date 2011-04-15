@@ -254,3 +254,9 @@ Instruction manual for Roller Jammer by Nichibutsu
 Service manual. Includes cabinet illustration, game play structure, and schematics.
 By Nichibutsu, 15737 Garfield Ave., Unit #18, Paramount, CA 90723
 
+Arcade Game Manual: The Adventures of Major Havoc by Atari
+Instruction manual for The Adventures of Major Havoc by Atari
+Operators manual with illustrated parts lists. Includes setup, self test, maintenance and illustrated parts lists.
+By Atari
+
+
