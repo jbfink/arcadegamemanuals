@@ -71,4 +71,9 @@ Service instructions and parts catalog. Includes schematics and play instruction
 By Taito Corporation
 1980
 
+Arcade Game Manual: Inferno by Meadows Games
+Instruction manual for Inferno by Meadows Games
+Service/Instruction manual. Includes part removal instructions, adjustments, option descriptions and schematics.
+By Meadows Games, Inc., 181 Commercial Street, Sunnyvale, California 94086
+
 
