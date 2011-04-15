@@ -125,12 +125,8 @@ Instruction manual for Flyball by Atari
 Operation, Maintenance and Service Manual. Includes specifications, theory of operation, installation instructions, maintenance and adjustments, troubleshooting and repair, and schematics, drawings, and parts list.
 By Atari Inc., 14600 Winchester Blvd, Los Gatos, CA 95030
 
-
-
-
-
-
-
-
-
+Arcade Game Manual: Paddle Battle by Allied
+Instruction manual for Paddle Battle by Allied
+Parts and wiring catalog. Includes cabinet view, parts description, wiring schematics, troubleshooting guide, and maintenance and adjustment procedures.
+By Allied Leisure Industries, Inc, 245 West 74th Place, Hialeah, Florida 33010
 
