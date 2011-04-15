@@ -130,3 +130,9 @@ Instruction manual for Paddle Battle by Allied
 Parts and wiring catalog. Includes cabinet view, parts description, wiring schematics, troubleshooting guide, and maintenance and adjustment procedures.
 By Allied Leisure Industries, Inc, 245 West 74th Place, Hialeah, Florida 33010
 
+Arcade Game Manual: Strider by Capcom
+Instruction manual for Strider by Capcom
+Kit instruction manual. Includes requirements, package contents, recommended tools and supplies, dip switch tables, game description, installation procedures, helpful hints, control panel positioning, main harness connections, and warranty registration card.
+By Capcom, 3303 Scott Boulevard, Santa Clara, CA 95054
+
+
