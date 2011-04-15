@@ -140,3 +140,9 @@ Instruction manual for Aztarac by Centuri
 Service manual. Includes general information, operation, parts list and schematics.
 By Centuri
  
+Arcade Game Manual: Stompin' by ???
+Instructiona manual for Stompin' by ???
+Includes self test, option switch settings, mounting procedures, and schematics
+By ???
+
+
