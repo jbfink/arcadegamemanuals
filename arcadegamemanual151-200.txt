@@ -92,6 +92,12 @@ Instruction manual for King & Balloon by Game Plan
 Includes installation, game play instructions, test and hardware descriptions, schematics and troubleshooting.
 By Game Plan, Inc., 1515 W. Fullerton Avenue, Addison, Illinois 60101
 
+Arcade Game Manual: Lock 'N Chase by Taito
+Instruction manual for Lock 'N Chase by Taito
+Includes upright game setup, maintenance, illustrations and parts list.
+By Taito America Corporation, 
+1981
+
 
 
 
