@@ -215,3 +215,11 @@ Instruction manual for Shuuz by Atari
 Kit installation instructions. Includes set-up instructions, self-test, maintenance and troubleshooting, parts illustrations, and schematic diagrams.
 By Atari Games Corporation, 675 Sycamore Drive, P.O. Box 361110, Milpitas, California 95036
 1990
+
+Arcade Game Manual: Le Mans by Atari
+Instruction manual for Le Mans by Atari
+Operation, Maintenance and Service Manual. Includes general maintenance and service instructions, printed circuit board theory of operation, schematics, drawings and parts lists.
+By Atari Inc., 14600 Winchester Blvd, Los Gatos, CA 95030
+1976
+
+
