@@ -12,4 +12,11 @@ By Bally Sente
 Arcade Game Manual: Night Stocker Field Conversion Kit
 Instruction manual for Night Stocker Field Conversion Kit by Bally Sente
 Game description, operational theory, dip switch settings, parts list and schematics
+By Bally Sente, 10601 W. Belmont Avenue, Franklin Park, Illinois 60131
 1986
+
+Arcade Game Manual: Rescue Raider by Bally Midway
+Instruction manual for Rescue Raider by Bally Midway
+System information, illustrated parts list, wiring, layouts and schematics
+By Bally Midway Mfg Co., 10601 W. Belmont Avenue, Franklin Park, Illinois 60131
+1987
