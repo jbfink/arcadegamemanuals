@@ -1,9 +1,15 @@
 Arcade Game Manual: Mini-Golf Field Conversion Kit by Bally Sente
 Instruction manual for Mini-Golf Field Conversion Kit by Bally Sente
-Conversion procedure instructions and schematics.
+Conversion procedure instructions and schematics
 By Bally Sente, 10601 W. Belmont Avenue, Franklin Park, Illinois 60131
+1985
 
 Arcade Game Manual: Name That Tune by Bally Sente
 Instruction manual for Name That Tune by Bally Sente
 Mode descriptions, gameplay sample, dip switch settings, and schematics
 By Bally Sente
+
+Arcade Game Manual: Night Stocker Field Conversion Kit
+Instruction manual for Night Stocker Field Conversion Kit by Bally Sente
+Game description, operational theory, dip switch settings, parts list and schematics
+1986
