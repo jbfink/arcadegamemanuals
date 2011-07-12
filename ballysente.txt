@@ -25,4 +25,4 @@ Arcade Game Manual: Electrical Manual SAC 1A by Bally Sente
 Instruction manual for Electrical Manual SAC1A by Bally Sente
 Schematics and PCB assembly lists
 By Bally Sente Midway Mfg. Co., 10601 W. Belmont Avenue, Franklin Park, Illinois 60131
-
+1984
